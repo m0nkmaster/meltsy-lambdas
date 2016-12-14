@@ -1,0 +1,17 @@
+{
+  "etsy": {
+    "https://openapi.etsy.com": {
+      "__domain": {
+        "auth": {
+          "oauth": {"token": "[0]", "secret": "[1]"}
+        }
+      },
+      "[version]/{endpoint}": {
+        "__path": {
+          "alias": "__default",
+          "version": "v2"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "server": {
+    "protocol": "http",
+    "host": "meltsy.com:3000"
+  },
+  "etsy": {
+    "consumer_key": "xxxxx",
+    "consumer_secret": "xxxxx"
+  }
+}

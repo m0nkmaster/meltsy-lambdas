@@ -1,0 +1,22 @@
+{
+  "name": "lambda-test",
+  "version": "1.0.0",
+  "description": "Lambda messing",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.7.13",
+    "bluebird": "^3.4.6",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.2",
+    "oauth": "^0.9.14",
+    "path": "^0.12.7",
+    "purest": "^3.0.1",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Rob MacDonald",
+  "license": "ISC"
+}
